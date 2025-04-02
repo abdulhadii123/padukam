@@ -11,8 +11,8 @@ function Footer() {
         </div>
         <div className="footer__section">
           <h3 className="footer__title">Contact</h3>
-          <p className="footer__text">Email: nikileshreddyt@gmail.com</p>
-          <p className="footer__text">Phone: +91 8639870053</p>
+          <p className="footer__text">Email: hadimp@gmail.com</p>
+          <p className="footer__text">Phone: +91 9778062727</p>
         </div>
         <div className="footer__section">
           <h3 className="footer__title">Follow Us</h3>
