@@ -7,7 +7,16 @@ function Footer() {
       <div className="footer__content">
         <div className="footer__section">
           <h3 className="footer__title">About Us</h3>
-          <p className="footer__text">FarmFresh Market connects local farmers with consumers, providing fresh produce directly from the source.</p>
+          <p className="footer__text">Step into comfort & style – Shop the best footwear at unbeatable prices! 👟✨
+
+
+
+
+
+
+
+
+</p>
         </div>
         <div className="footer__section">
           <h3 className="footer__title">Contact</h3>
@@ -24,7 +33,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer__bottom">
-        <p className="footer__copyright">&copy; 2024 FarmFresh Market. All rights reserved.</p>
+        <p className="footer__copyright">&copy; 2025 Padukam Footwear. All rights reserved.</p>
       </div>
     </footer>
   );

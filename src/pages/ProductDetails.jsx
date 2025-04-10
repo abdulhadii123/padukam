@@ -32,7 +32,7 @@ function ProductDetails() {
   };
 
   return (
-    <div className="product-details">
+    <div className="product-details main-content">
       <img src={product.image} alt={product.name} className="product-details__image" />
       <div className="product-details__info">
         <h1 className="product-details__name">{product.name}</h1>

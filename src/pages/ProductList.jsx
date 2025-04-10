@@ -20,7 +20,7 @@ function ProductList() {
   };
 
   return (
-    <div className="product-list">
+    <div className="product-list main-content">
       <h1 className="product-list__title">Our Products</h1>
       <div className="product-list__grid">
         {product_list.map((product) => (

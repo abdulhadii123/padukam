@@ -25,7 +25,7 @@ function Checkout() {
   };
 
   return (
-    <div className="checkout">
+    <div className="checkout main-content">
       <h1 className="checkout__title">Checkout</h1>
       <form onSubmit={handleSubmit} className="checkout-form">
         <div className="checkout-form__section">

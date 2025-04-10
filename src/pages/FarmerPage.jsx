@@ -34,7 +34,7 @@ function FarmerPage() {
   };
 
   return (
-    <div className="farmer-page">
+    <div className="farmer-page main-content">
       <h1>Add a New Product</h1>
       <form onSubmit={handleSubmit} className="farmer-form">
         <div>

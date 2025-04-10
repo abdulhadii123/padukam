@@ -50,7 +50,7 @@ function CartPage() {
   };
 
   return (
-    <div className="cart">
+    <div className="cart main-content">
       <h1 className="cart__title">Your Cart</h1>
       {cartItems.length === 0 ? (
         <p className="cart__empty-message">Your cart is empty.</p>
